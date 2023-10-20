@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeDummy4
+  gitServerName: PratibhaGit
+  gitUrl: https://github.com/Pratibha24/EdgeDummy4
+  gitUsername: Pratibha24
+  gitBranch: main
